@@ -1,0 +1,5 @@
+{
+  "name": "Viral Video Storyboarder",
+  "description": "An application that analyzes a viral video concept, and using your own uploaded characters, generates a script, storyboard, and a short video series. Users can download individual video clips.",
+  "requestFramePermissions": []
+}
